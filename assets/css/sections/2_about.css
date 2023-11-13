@@ -1,0 +1,20 @@
+.second-Section {
+    max-width: 80vw;
+    margin: auto;
+    /*padding-bottom: 30px;*/
+}
+
+.second-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-Section h1 {
+    font-size: 2rem;
+}
+
+.second-container img {
+    width: 650px;
+}

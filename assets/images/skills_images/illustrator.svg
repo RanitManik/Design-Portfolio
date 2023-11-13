@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1239.26 1210.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d0402;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ff9a00;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g>
+      <rect class="cls-1" width="1239.26" height="1210.59" rx="222.56" ry="222.56"/>
+      <g>
+        <rect class="cls-2" x="846.24" y="484.76" width="113.37" height="414.39"/>
+        <circle class="cls-2" cx="902.93" cy="376.6" r="65.16"/>
+        <path class="cls-2" d="m600.7,353.14h-146.05c0,24.55-4.26,48.92-12.59,72.02l-170.89,473.99h119.65l42.99-130.6,191.73-1.39,43.81,131.99h126.51l-195.16-546.01Zm-135.45,308.53l62.34-211.97,65.4,211.97h-127.74Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
