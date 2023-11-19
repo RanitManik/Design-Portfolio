@@ -69,12 +69,12 @@
 
     .first-Section > div {
         width: 100%;
-        padding-left: 25px;
+        padding-left: 0px;
     }
 
     .leftSection {
         width: 100%;
-        font-size: 1.7rem;
+        font-size: 8vw;
         order: 2;
     }
 
